@@ -8,7 +8,7 @@ This project is designed to analyze taxi data. Various analyses and visualizatio
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
