@@ -1,6 +1,4 @@
-Of course! Here is a README file in English:
 
-```markdown
 # Taxi Analytics
 
 This project is designed to analyze taxi data. Various analyses and visualizations are performed using Jupyter Notebook.
